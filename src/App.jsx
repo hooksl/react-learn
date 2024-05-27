@@ -1,5 +1,5 @@
 import './App.css'
-import Gallery from "./learn/01-describing-the-ui/your-first-component.jsx";
+import Gallery from "./learn/01-describing-the-ui/your-first-component/your-first-component";
 
 function App() {
 

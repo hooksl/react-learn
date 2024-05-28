@@ -1,10 +1,10 @@
 import './App.css'
-import RespondingToEvents from "./learn/02-adding-interactivity/01-responding-to-events/responding-to-events.jsx";
+import ReactingToInputWithState from "./learn/03-managing-state/reacting-to-input-with-state/reacting-to-input-with-state.jsx";
 
 function App() {
     return (
         <div>
-            <RespondingToEvents />
+            <ReactingToInputWithState />
         </div>
     )
 }

@@ -1,12 +1,11 @@
 import './App.css'
-import Gallery from "./learn/01-describing-the-ui/02-importing-and-exporting-components/Gallery";
-function App() {
+import RespondingToEvents from "./learn/02-adding-interactivity/01-responding-to-events/responding-to-events.jsx";
 
+function App() {
     return (
         <div>
-            <Gallery />
+            <RespondingToEvents />
         </div>
     )
 }
-
 export default App

@@ -1,10 +1,10 @@
 import './App.css'
-import ReactingToInputWithState from "./learn/03-managing-state/reacting-to-input-with-state/reacting-to-input-with-state.jsx";
+import Gallery from './learn/02-adding-interactivity/02-state-a-components-memory/state-a-components-memory'
 
 function App() {
     return (
         <div>
-            <ReactingToInputWithState />
+            <Gallery />
         </div>
     )
 }

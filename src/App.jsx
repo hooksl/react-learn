@@ -1,9 +1,9 @@
 import './App.css'
-import Accordion from './learn/03-managing-state/03-sharing-state-between-components/sharing-state-between-components'
+import Messenger from './learn/03-managing-state/04-preserving-and-resetting-state/Preserving-and-resetting-state'
 function App() {
     return (
         <div>
-            <Accordion />
+            <Messenger />
         </div>
     )
 }

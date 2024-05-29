@@ -1,10 +1,11 @@
 import './App.css'
 
+import Form from './learn/03-managing-state/02-choosing-the-state-structure/choosing-the-state-structure'
 function App() {
 
     return (
         <div>
-            <h1>你好,react!</h1>
+            <Form />
         </div>
     )
 }

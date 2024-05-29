@@ -12,7 +12,6 @@ export default function Form() {
 
     async function handleSubmit(e) {
         e.preventDefault();
-        // TODO:以下设置状态没有等待函数执行结束，没有堵塞，直接渲染？
         setStatus('submitting');
         // console.log("handleSubmit 1")
         try {

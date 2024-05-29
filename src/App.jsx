@@ -1,9 +1,9 @@
 import './App.css'
-import Messenger from './learn/03-managing-state/04-preserving-and-resetting-state/Preserving-and-resetting-state'
+import TaskApp from './learn/03-managing-state/05-Reducer/TaskApp.jsx'
 function App() {
     return (
         <div>
-            <Messenger />
+            <TaskApp />
         </div>
     )
 }

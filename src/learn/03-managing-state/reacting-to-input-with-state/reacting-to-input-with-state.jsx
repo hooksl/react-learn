@@ -1,6 +1,7 @@
 import { useState } from 'react';
 
 export default function Form() {
+    // console.log("Form")
     const [answer, setAnswer] = useState('');
     const [error, setError] = useState(null);
     const [status, setStatus] = useState('typing');
@@ -13,6 +14,7 @@ export default function Form() {
         e.preventDefault();
         // TODO:以下设置状态没有等待函数执行结束，没有堵塞，直接渲染？
         setStatus('submitting');
+        // console.log("handleSubmit 1")
         try {
             await submitForm(answer);
             setStatus('success');
@@ -20,11 +22,12 @@ export default function Form() {
             setStatus('typing');
             setError(err);
         }
+        // console.log("handleSubmit 2")
     }
 
     function handleTextareaChange(e) {
         setAnswer(e.target.value);
-        console.log('handleTextareaChange')
+        // console.log('handleTextareaChange')
     }
 
     return (

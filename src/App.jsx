@@ -1,10 +1,9 @@
 import './App.css'
-import ReactingToInputWithState from "./learn/03-managing-state/reacting-to-input-with-state/reacting-to-input-with-state.jsx";
-
+import Form from './learn/03-managing-state/02-choosing-the-state-structure/choosing-the-state-structure'
 function App() {
     return (
         <div>
-            <ReactingToInputWithState />
+            <Form />
         </div>
     )
 }

@@ -1,1 +1,574 @@
-{"root":{"data":{"text":"<p><strong style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none;\">react</strong></p>","expand":true,"richText":true,"isActive":false,"uid":"29060fe5-e167-4b33-a3e9-23d8c77388cc","hyperlink":"https://zh-hans.react.dev/learn","hyperlinkTitle":"React"},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-style: normal; text-decoration: none;\">起步</span></p>","generalization":null,"richText":true,"expand":true,"isActive":false,"uid":"af14f177-0b07-4e82-b340-8035329c20b3"},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">快速入门</span></p>","richText":true,"expand":false,"isActive":false,"uid":"0d801432-e5ba-4f98-a01d-3ed1fd5c3297"},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">教程：井字游戏</span></p>","uid":"f448413d-2885-4d5a-b6fd-79cc1cd8c68a","expand":true,"richText":true,"isActive":false,"icon":["progress_8"],"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React哲学</span></p>","uid":"5e68c0ad-3556-4383-be90-ba3233e36c66","expand":true,"richText":true,"isActive":false,"icon":["progress_8"],"resetRichText":true},"children":[]}]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">安装</span></p>","richText":true,"expand":false,"isActive":false,"uid":"54c511ea-3514-4429-a68c-58b0f875782e"},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">启动一个新的 React 项目</span></p>","uid":"b24b3a22-d359-4f27-b5b8-a71fcceda3cc","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 React 添加到现有项目中</span></p>","uid":"40b75979-17ab-49af-b78d-262dfadcc216","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">编辑器设置</span></p>","uid":"dcdf2884-69e1-42ce-9e51-3ed0fcb942d5","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 TypeScript</span></p>","uid":"37e819fa-b799-4f12-bb7a-281fc5870e08","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React 开发者工具</span></p>","uid":"316bd369-29b7-416b-b818-3c6d8cf53753","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React Compiler</span></p>","uid":"55fbf602-0638-476b-bdb6-cb0f2a7adbd9","expand":true,"richText":true,"isActive":false,"resetRichText":true},"children":[]}]}]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-style: normal; text-decoration: none;\">学习React</span></p>","uid":"4a83fc9d-a0ae-47fd-a35c-acbb62a9f87b","expand":true,"richText":true,"isActive":false},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">描述 UI</span></p>","uid":"bf3d92b6-4bfe-4930-90dc-aeb3f5a1112b","expand":true,"richText":true,"isActive":false,"icon":["progress_3"]},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">第一个组件</span></p>","uid":"0f3b3a65-ec75-4353-9308-780d56765c5d","expand":true,"richText":true,"isActive":false,"icon":["progress_8"],"generalization":[],"associativeLineTargets":[],"associativeLineTargetControlOffsets":[],"associativeLinePoint":[],"associativeLineText":{},"tag":[],"note":""},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">组件的导入与导出</span></p>","uid":"1bee8f37-e9bd-4c73-a5c3-b13be548705f","expand":true,"richText":true,"isActive":false,"icon":["progress_8"]},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 JSX 书写标签语言&nbsp;</span></p>","uid":"1dbc0f9c-1ca1-44b7-b314-d786bf424492","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">在 JSX 中通过大括号使用 JavaScript&nbsp;</span></p>","uid":"3ff8a408-f36d-4a0d-a82b-f1a15f2ce8f7","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 Props 传递给组件&nbsp;</span></p>","uid":"512e3f0d-b693-4a37-a47a-44bf93298e07","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">条件渲染&nbsp;</span></p>","uid":"6a4b8bcc-dee2-4b2b-a33f-3371e41e514a","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">渲染列表&nbsp;</span></p>","uid":"e28b053a-58d9-41a5-b809-f5af692ee8bb","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">保持组件纯粹&nbsp;</span></p>","uid":"db64448d-5aee-4d18-99b9-a53877d44550","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 UI 视为树&nbsp;</span></p>","uid":"a42756e3-16e1-48b3-b5fd-9dfd4f0677b8","expand":true,"richText":true,"isActive":false},"children":[]}]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">添加交互</span></p>","uid":"16ed4709-71a1-43cf-ab10-b21084b4f6e7","expand":true,"richText":true,"isActive":false,"icon":[]},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">响应事件&nbsp;</span></p>","uid":"413ef5c2-9a50-4cfa-89ce-06278707a975","expand":true,"richText":true,"isActive":false,"icon":["progress_8"]},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">State: 组件的记忆&nbsp;</span></p>","uid":"256f3532-139c-431b-af25-7f737e7e6166","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">渲染和提交&nbsp;</span></p>","uid":"4fa71d0c-1ac3-49ab-9c3f-75296d0bfa25","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">state 如同一张快照&nbsp;</span></p>","uid":"488f5ebb-332a-4183-8969-f3b410ffeb2c","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">把一系列 state 更新加入队列&nbsp;</span></p>","uid":"73c6fbb7-93e6-41df-8de7-b1f56d4577fc","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">更新 state 中的对象&nbsp;</span></p>","uid":"4b460d37-e1a6-4b9d-9490-94a4b5f95a8c","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">更新 state 中的数组&nbsp;</span></p>","uid":"23f51b9b-1e94-48ca-b4f5-3eb077e4d949","expand":true,"richText":true,"isActive":false},"children":[]}]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">状态管理</span></p>","uid":"4891ceab-ab8e-4071-a6b3-5b8a90a9e408","expand":true,"richText":true,"isActive":false,"icon":[]},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">用 State 响应输入&nbsp;</span></p>","uid":"529fcf38-86d0-4b2e-a194-dd9fb35b5551","expand":true,"richText":true,"isActive":false,"icon":[]},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">选择 State 结构&nbsp;</span></p>","uid":"a2c94ab6-fa0b-44cf-9bc3-cf77b0e8c5a2","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">在组件间共享状态&nbsp;</span></p>","uid":"398cdaa3-5f39-4935-acb5-5955cc18cb0b","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">对 state 进行保留和重置&nbsp;</span></p>","uid":"751e2caa-4938-4786-b1f2-b39d46a47494","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">迁移状态逻辑至 Reducer 中&nbsp;</span></p>","uid":"5a2428af-2ebd-46d3-ae53-3dd085e7ae2b","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Context 深层传递参数&nbsp;</span></p>","uid":"e074bba8-246f-4fde-9f3b-131a1b684926","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Reducer 和 Context 拓展你的应用&nbsp;</span></p>","uid":"67422d9a-0b6d-452e-ba32-b532c571cfe5","expand":true,"richText":true,"isActive":false},"children":[]}]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">脱围机制</span></p>","uid":"3af7c7ab-28a4-4326-a791-624d1f42a4da","expand":true,"richText":true,"isActive":false,"icon":[]},"children":[{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 ref 引用值</span></p>","uid":"f5878ae8-c836-4e81-a175-5476ddb64a88","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 ref 操作 DOM&nbsp;</span></p>","uid":"d8ad7a6e-ecac-4cbf-ab4d-a90c2adcfb87","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Effect 同步&nbsp;</span></p>","uid":"05109094-6ff4-466a-b598-cdb4dea5d5ab","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">你可能不需要 Effect&nbsp;</span></p>","uid":"87d832b1-0558-4475-a68b-be2ef421f02b","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">响应式 Effect 的生命周期&nbsp;</span></p>","uid":"021fb048-2561-4df5-8ccd-4c35ebfcba6d","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将事件从 Effect 中分开&nbsp;</span></p>","uid":"2dfe985d-2bc0-4231-867d-b0bdab1c009a","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">移除 Effect 依赖&nbsp;</span></p>","uid":"7d4ac46e-5598-4cce-b863-b8878dca8f93","expand":true,"richText":true,"isActive":false},"children":[]},{"data":{"text":"<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用自定义 Hook 复用逻辑&nbsp;</span></p>","uid":"918f0bcc-bdbe-4804-b42c-02e2a7dba2ea","expand":true,"richText":true,"isActive":false},"children":[]}]}]}]},"theme":{"template":"dark4","config":{"associativeLineWidth":6,"showLineMarker":false,"nodeUseLineStyle":false,"node":{"marginY":0,"marginX":54},"second":{"marginX":100}}},"layout":"logicalStructure","config":{},"view":{"transform":{"scaleX":1,"scaleY":1,"shear":0,"rotate":0,"translateX":-324,"translateY":92,"originX":0,"originY":0,"a":1,"b":0,"c":0,"d":1,"e":-324,"f":92},"state":{"scale":1,"x":-324,"y":92,"sx":0,"sy":0}}}
+{
+  "root": {
+    "data": {
+      "text": "<p><strong style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none;\">react</strong></p>",
+      "expand": true,
+      "richText": true,
+      "isActive": false,
+      "uid": "29060fe5-e167-4b33-a3e9-23d8c77388cc",
+      "hyperlink": "https://zh-hans.react.dev/learn",
+      "hyperlinkTitle": "React"
+    },
+    "children": [
+      {
+        "data": {
+          "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-style: normal; text-decoration: none;\">起步</span></p>",
+          "generalization": null,
+          "richText": true,
+          "expand": true,
+          "isActive": false,
+          "uid": "af14f177-0b07-4e82-b340-8035329c20b3"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">快速入门</span></p>",
+              "richText": true,
+              "expand": false,
+              "isActive": false,
+              "uid": "0d801432-e5ba-4f98-a01d-3ed1fd5c3297"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">教程：井字游戏</span></p>",
+                  "uid": "f448413d-2885-4d5a-b6fd-79cc1cd8c68a",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": [
+                    "progress_8"
+                  ],
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React哲学</span></p>",
+                  "uid": "5e68c0ad-3556-4383-be90-ba3233e36c66",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": [
+                    "progress_8"
+                  ],
+                  "resetRichText": true
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">安装</span></p>",
+              "richText": true,
+              "expand": false,
+              "isActive": false,
+              "uid": "54c511ea-3514-4429-a68c-58b0f875782e"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">启动一个新的 React 项目</span></p>",
+                  "uid": "b24b3a22-d359-4f27-b5b8-a71fcceda3cc",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 React 添加到现有项目中</span></p>",
+                  "uid": "40b75979-17ab-49af-b78d-262dfadcc216",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">编辑器设置</span></p>",
+                  "uid": "dcdf2884-69e1-42ce-9e51-3ed0fcb942d5",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 TypeScript</span></p>",
+                  "uid": "37e819fa-b799-4f12-bb7a-281fc5870e08",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React 开发者工具</span></p>",
+                  "uid": "316bd369-29b7-416b-b818-3c6d8cf53753",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">React Compiler</span></p>",
+                  "uid": "55fbf602-0638-476b-bdb6-cb0f2a7adbd9",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "resetRichText": true
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-style: normal; text-decoration: none;\">学习React</span></p>",
+          "uid": "4a83fc9d-a0ae-47fd-a35c-acbb62a9f87b",
+          "expand": true,
+          "richText": true,
+          "isActive": false
+        },
+        "children": [
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">描述 UI</span></p>",
+              "uid": "bf3d92b6-4bfe-4930-90dc-aeb3f5a1112b",
+              "expand": true,
+              "richText": true,
+              "isActive": false,
+              "icon": [
+                "progress_3"
+              ]
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">第一个组件</span></p>",
+                  "uid": "0f3b3a65-ec75-4353-9308-780d56765c5d",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": [
+                    "progress_8"
+                  ],
+                  "generalization": [],
+                  "associativeLineTargets": [],
+                  "associativeLineTargetControlOffsets": [],
+                  "associativeLinePoint": [],
+                  "associativeLineText": {},
+                  "tag": [],
+                  "note": ""
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">组件的导入与导出</span></p>",
+                  "uid": "1bee8f37-e9bd-4c73-a5c3-b13be548705f",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": [
+                    "progress_8"
+                  ]
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 JSX 书写标签语言&nbsp;</span></p>",
+                  "uid": "1dbc0f9c-1ca1-44b7-b314-d786bf424492",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">在 JSX 中通过大括号使用 JavaScript&nbsp;</span></p>",
+                  "uid": "3ff8a408-f36d-4a0d-a82b-f1a15f2ce8f7",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 Props 传递给组件&nbsp;</span></p>",
+                  "uid": "512e3f0d-b693-4a37-a47a-44bf93298e07",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">条件渲染&nbsp;</span></p>",
+                  "uid": "6a4b8bcc-dee2-4b2b-a33f-3371e41e514a",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">渲染列表&nbsp;</span></p>",
+                  "uid": "e28b053a-58d9-41a5-b809-f5af692ee8bb",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">保持组件纯粹&nbsp;</span></p>",
+                  "uid": "db64448d-5aee-4d18-99b9-a53877d44550",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将 UI 视为树&nbsp;</span></p>",
+                  "uid": "a42756e3-16e1-48b3-b5fd-9dfd4f0677b8",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">添加交互</span></p>",
+              "uid": "16ed4709-71a1-43cf-ab10-b21084b4f6e7",
+              "expand": true,
+              "richText": true,
+              "isActive": false,
+              "icon": []
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">响应事件&nbsp;</span></p>",
+                  "uid": "413ef5c2-9a50-4cfa-89ce-06278707a975",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": [
+                    "progress_8"
+                  ]
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">State: 组件的记忆&nbsp;</span></p>",
+                  "uid": "256f3532-139c-431b-af25-7f737e7e6166",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">渲染和提交&nbsp;</span></p>",
+                  "uid": "4fa71d0c-1ac3-49ab-9c3f-75296d0bfa25",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">state 如同一张快照&nbsp;</span></p>",
+                  "uid": "488f5ebb-332a-4183-8969-f3b410ffeb2c",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">把一系列 state 更新加入队列&nbsp;</span></p>",
+                  "uid": "73c6fbb7-93e6-41df-8de7-b1f56d4577fc",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">更新 state 中的对象&nbsp;</span></p>",
+                  "uid": "4b460d37-e1a6-4b9d-9490-94a4b5f95a8c",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">更新 state 中的数组&nbsp;</span></p>",
+                  "uid": "23f51b9b-1e94-48ca-b4f5-3eb077e4d949",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">状态管理</span></p>",
+              "uid": "4891ceab-ab8e-4071-a6b3-5b8a90a9e408",
+              "expand": true,
+              "richText": true,
+              "isActive": false,
+              "icon": []
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">用 State 响应输入&nbsp;</span></p>",
+                  "uid": "529fcf38-86d0-4b2e-a194-dd9fb35b5551",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false,
+                  "icon": []
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">选择 State 结构&nbsp;</span></p>",
+                  "uid": "a2c94ab6-fa0b-44cf-9bc3-cf77b0e8c5a2",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">在组件间共享状态&nbsp;</span></p>",
+                  "uid": "398cdaa3-5f39-4935-acb5-5955cc18cb0b",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">对 state 进行保留和重置&nbsp;</span></p>",
+                  "uid": "751e2caa-4938-4786-b1f2-b39d46a47494",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">迁移状态逻辑至 Reducer 中&nbsp;</span></p>",
+                  "uid": "5a2428af-2ebd-46d3-ae53-3dd085e7ae2b",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Context 深层传递参数&nbsp;</span></p>",
+                  "uid": "e074bba8-246f-4fde-9f3b-131a1b684926",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Reducer 和 Context 拓展你的应用&nbsp;</span></p>",
+                  "uid": "67422d9a-0b6d-452e-ba32-b532c571cfe5",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">脱围机制</span></p>",
+              "uid": "3af7c7ab-28a4-4326-a791-624d1f42a4da",
+              "expand": true,
+              "richText": true,
+              "isActive": false,
+              "icon": []
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 ref 引用值</span></p>",
+                  "uid": "f5878ae8-c836-4e81-a175-5476ddb64a88",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 ref 操作 DOM&nbsp;</span></p>",
+                  "uid": "d8ad7a6e-ecac-4cbf-ab4d-a90c2adcfb87",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用 Effect 同步&nbsp;</span></p>",
+                  "uid": "05109094-6ff4-466a-b598-cdb4dea5d5ab",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">你可能不需要 Effect&nbsp;</span></p>",
+                  "uid": "87d832b1-0558-4475-a68b-be2ef421f02b",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">响应式 Effect 的生命周期&nbsp;</span></p>",
+                  "uid": "021fb048-2561-4df5-8ccd-4c35ebfcba6d",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">将事件从 Effect 中分开&nbsp;</span></p>",
+                  "uid": "2dfe985d-2bc0-4231-867d-b0bdab1c009a",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">移除 Effect 依赖&nbsp;</span></p>",
+                  "uid": "7d4ac46e-5598-4cce-b863-b8878dca8f93",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">使用自定义 Hook 复用逻辑&nbsp;</span></p>",
+                  "uid": "918f0bcc-bdbe-4804-b42c-02e2a7dba2ea",
+                  "expand": true,
+                  "richText": true,
+                  "isActive": false
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "theme": {
+    "template": "dark4",
+    "config": {
+      "associativeLineWidth": 6,
+      "showLineMarker": false,
+      "nodeUseLineStyle": false,
+      "node": {
+        "marginY": 0,
+        "marginX": 54
+      },
+      "second": {
+        "marginX": 100
+      }
+    }
+  },
+  "layout": "logicalStructure",
+  "config": {},
+  "view": {
+    "transform": {
+      "scaleX": 1,
+      "scaleY": 1,
+      "shear": 0,
+      "rotate": 0,
+      "translateX": -324,
+      "translateY": 92,
+      "originX": 0,
+      "originY": 0,
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": -324,
+      "f": 92
+    },
+    "state": {
+      "scale": 1,
+      "x": -324,
+      "y": 92,
+      "sx": 0,
+      "sy": 0
+    }
+  }
+}
+

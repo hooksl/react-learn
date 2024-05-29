@@ -1,5 +1,5 @@
 import './App.css'
-import TaskApp from './learn/03-managing-state/05-Reducer/TaskApp.jsx'
+import TaskApp from './learn/03-managing-state/06-Context/Page'
 function App() {
     return (
         <div>

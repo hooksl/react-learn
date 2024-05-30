@@ -1,5 +1,5 @@
 import './App.css'
-import TaskApp from './learn/04-escape-hatches/02-Dom/Form.jsx'
+import TaskApp from './learn/04-escape-hatches/03-synchronizing-with-effects/VideoPlayer'
 function App() {
     return (
         <div>

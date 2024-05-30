@@ -1,5 +1,5 @@
 import './App.css'
-import TaskApp from './learn/05-lifecycle-of-reactive-effects/chatroom'
+import TaskApp from './learn/06-separating-events-from-effects/03/App'
 function App() {
     return (
         <div>

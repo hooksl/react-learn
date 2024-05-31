@@ -1,5 +1,5 @@
 import './App.css'
-import TaskApp from './learn/06-separating-events-from-effects/03/App'
+import TaskApp from './learn/08-custom-hooks/05-Cursor/App'
 function App() {
     return (
         <div>
